@@ -1,14 +1,13 @@
-# CarRental-Webseite
+# Car Rental Project
 
-<h1> Car Rental</h1>
+This repository contains the **Car Rental App**, designed to provide a user-friendly platform for renting cars. The app includes key features such as browsing available cars, making reservations, managing user accounts, and vehicle management. The project is built with HTML and CSS, and can be expanded using JavaScript for enhanced functionality.
 
-araba kiralama websitesidir
 
-<h2>Harici kullanimlar</h2>
+## Technologies Used
 
-facebook entegre edilmistir
+- **HTML**: Provides the structure for web pages.
+- **CSS**: Responsible for styling the user interface and ensuring responsive design.
 
-<h3>Ekran Gorunumu</h3>
 
 
 ![](screen.gif)
